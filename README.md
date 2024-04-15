@@ -22,7 +22,7 @@ Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 License
-This code is available under the MIT license. See the LICENSE file for more details.
+This code is available under the ..... ....
 
 Acknowledgements
 This code is based on the STM32CubeIDE HAL library and the DS3231 datasheet.

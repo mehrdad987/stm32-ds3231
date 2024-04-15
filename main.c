@@ -2,13 +2,11 @@
 #include "main.h"
 
 #include "stdio.h"
-#include "STM32_CAN.hpp"
-#include "NMEA2000_STM32.hpp"
+
 
 #define PUTCHAR_PROTOTYPE int __io_putchar(int ch)
 
 I2C_HandleTypeDef hi2c1;
-
 UART_HandleTypeDef huart1;
 
 void SystemClock_Config(void);
